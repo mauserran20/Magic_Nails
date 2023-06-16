@@ -1,15 +1,20 @@
-*{
+/* * {
   margin: 0;
   padding: 0;
-}
+} */
+
 body {
+  
+  max-width: 1300px;
+  margin: 0 auto;
+
   font-family: 'Raleway', sans-serif;
   background-color: white;
 }
 
 
 .layout_padding {
-  padding: 75px 0;
+  padding: 78px 0;
 }
 
 .layout_padding2 {
@@ -159,7 +164,7 @@ a:focus {
   height: 35px;
   padding: 0;
   border: none;
-  
+
 }
 
 .navbar-brand {
@@ -235,12 +240,14 @@ a:focus {
 
 /* common style for some sections */
 .common_style>section {
-  padding: 50px ;
-  
+  padding: 50px;
+
 }
- dl>dt span{
+
+dl>dt span {
   color: #ed5ac6;
- }
+}
+
 .common_style .row {
   align-items: center;
 }
@@ -250,7 +257,7 @@ a:focus {
   color: #151516;
   padding: 30px;
   margin: 40px;
-  
+
 }
 
 .common_style p {
