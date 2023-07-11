@@ -5,8 +5,8 @@
 
 body {
   
-  max-width: 1300px;
-  margin: 0 auto;
+  max-width: 100%;
+  /* margin: 0 auto; */
 
   font-family: 'Raleway', sans-serif;
   background-color: white;
@@ -588,3 +588,7 @@ dl>dt span {
 
 
 /* end footer section*/
+
+
+/* contactos stylo */
+
